@@ -28,14 +28,17 @@ The aim was to get familiar with object oriented programming programming and wit
 
 ## Data Structures
 
+- Linked Lists
 - Doubly Linked Lists
 - Circular Lists
 - Ordered Lists
+- Trees
 - Binary Tree Traversal
 - Depth-First Traversal
 - Breadth-First Traversal
 - Binary Search Trees
 - AVL Trees
+- Heaps
 - Full Binary Trees
 - Binary Heaps
 - M-way Search Trees
