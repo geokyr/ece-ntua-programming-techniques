@@ -1,4 +1,4 @@
-# ece-ntua-programming-techniques
+# programming-techniques
 
 Lab Assignments for the [Programming Techniques](https://www.ece.ntua.gr/en/undergraduate/courses/3138) course, during the 2nd semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
